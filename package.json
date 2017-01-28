@@ -1,14 +1,14 @@
 {
-  "name": "react-simple-boilerplate",
+  "name": "spotify-track-analyzer",
   "version": "1.0.0",
-  "description": "Simple and lightweight Boilerplate for ReactJS projects",
+  "description": "Client for accessing audio features and analysis of Spotify tracks",
   "scripts": {
     "lint": "eslint src",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/noahlotzer/react-simple-boilerplate.git"
+    "url": "https://github.com/RyanSy/spotify-track-analyzer.git"
   },
   "keywords": [
     "react",
@@ -19,12 +19,12 @@
     "edit",
     "webpack"
   ],
-  "author": "Noah-Jerome Lotzer <n.lotzer@neusta.de>",
+  "author": "Ryan Sy <ryan@ryansy.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/noahlotzer/react-simple-boilerplate/issues"
+    "url": "https://github.com/RyanSy/spotify-track-analyzer.git"
   },
-  "homepage": "https://github.com/noahlotzer/react-simple-boilerplate",
+  "homepage": "https://github.com/RyanSy/spotify-track-analyzer",
   "engines": {
     "node": ">=6.0.0"
   },
